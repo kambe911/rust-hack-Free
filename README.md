@@ -1,2 +1,3 @@
 # rust-hack-Free
-Беслпатный внешний чит на RUST,для запуска вам понадобиться запустить сам exe файл в самой игре,после выбрать цифры по порядку,2-4-5-enter и все у вас заинжектился чит
+A free external cheat on RUST, to run you will need to run the exe file itself in the game itself, then select the numbers in order, 2-4-5-enter and all you have is a cheat
+
